@@ -1,0 +1,21 @@
+.p1{
+	font-size: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: 'Bungee Outline', cursive;
+	color: rgba(231, 8, 8, 0.993);
+}
+
+.p2{
+	font-size: 2em;
+	font-style: normal;
+	font-weight: 700;
+	font-family: 'Dancing Script', cursive;
+}
+
+.p3{
+	font-size: 3rem;
+	font-style: oblique;
+	font-weight: 600;
+	font-family: 'Langar', cursive;
+}
